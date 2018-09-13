@@ -16,5 +16,6 @@ libs:
 tags:
   - c
   - core
+  - docs:misc:Device location (lat/lon)
 
 manifest_version: 2017-09-29
